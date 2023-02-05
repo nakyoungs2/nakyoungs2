@@ -1,1 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:757f8f,100:3365b5&height=200&text=Nakyoung-Han&desc=Information%20Security%20Engineer%20/%20AI%20Developer&descAlign=70&descAlignY=82) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnakyoungs2&count_bg=%233365B5&title_bg=%23757F8F&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
